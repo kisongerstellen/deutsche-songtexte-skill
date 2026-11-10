@@ -94,6 +94,15 @@ Der Text steht und du möchtest hören, wie ein Lied daraus klingt? Bei KlangKI 
 
 Du kannst auch mit einer Beschreibung beginnen oder reine Instrumentalmusik erstellen. Zum Schreiben mit diesem Skill brauchst du KlangKI nicht; du kannst die fertigen Texte ebenso in einem anderen Musikgenerator oder mit eigenen Musikern weiterbearbeiten.
 
+## Öffentliche Skill-Verzeichnisse
+
+Du kannst diesen Skill auch in folgenden Verzeichnissen entdecken und die dort veröffentlichten Beschreibungen lesen:
+
+- [Deutsche Songtexte auf Awesome Skills](https://www.awesomeskills.dev/en/skill/kisongerstellen-deutsche-songtexte-skill)
+- [Deutsche Songtexte – Skill für KI-Agenten auf SkillMD](https://skillmd.ai/skills/deutsche-songtexte-skill-fur-ki-agenten/)
+
+Die aktuelle Fassung der Dateien findest du hier im GitHub-Repository.
+
 ## Inhalt
 
 | Datei | Inhalt |
